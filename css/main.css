@@ -64,38 +64,18 @@ hr{
     margin-top: 10px;
 }
 
-
-    /* Imagenes */
-
-.img{
-    width: 100%;
-    
+.image {
+	width: 282px;
+    border-radius: 20px;
 }
 
 .imagenes{
-    width: 400px;
-}
-
-.imagen-one{
-    padding: 20px;
+    padding: 0 50px;
     margin-top: 50px;
-    width: 100%;
-    border-radius: 50px;
-    
-    
 }
 
-.imagen-two{
-    padding: 20px;
-    margin-top: 50px;
-    width: 100%;
-    border-radius: 50px;
-    
-    
+.floating-box {
+	float: left;
+	width: 282px;
+	margin: 10px; 
 }
-
-
-
-
-
-
